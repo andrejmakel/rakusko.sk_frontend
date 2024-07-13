@@ -1,0 +1,28 @@
+<?php  
+
+return[
+    'langId' => '2',
+    'langOrder' => '1',
+    'langShortcut' => 'de',
+    'shopping' => 'Einkaufen',
+    'places' => 'Reiseziele',
+    'activity' => 'Aktivitäten',
+    'info' => 'Information',
+    'search' => 'suchen',
+    'changeLang' => 'Language',
+    'menuLogo' => 'halloaustria_logo.png',
+    'footerText' => 'HalloAustria.at',
+    'categories' => 'Kategorien',
+    'allCat' => 'Alles',
+    'discount' => 'Ermässigung',
+    'removeFilter' => 'filter entfernen',
+    'openingHours' => 'Öffnungszeiten',
+    'prices' => 'Preise',
+    'displayMore' => 'Mehr anzeigen',
+    'displayLess' => 'Zeige weniger',
+    'arrivalParking' => 'Zufahrt und parken',
+    'practicalInfo' => 'Praktische Informationen',
+    'contact' => 'Kontakt',
+    'showGallery' => 'Galerie ansehen',
+    'sidebarTopText' => 'Du könntest interessiert sein',
+]; 

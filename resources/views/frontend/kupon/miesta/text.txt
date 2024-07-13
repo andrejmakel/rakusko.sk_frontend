@@ -1,0 +1,102 @@
+<div class="col-lg-6">
+ <h3 class="fst-italic text-success">Otváracie hodiny</h3>
+  <table class="table table-striped table-bordered bg-light">
+   <thead>
+    <tr class="table-success">
+     <th>Mesiac</th>
+     <th>Čas</th>
+    </tr>
+   </thead>
+<tbody>
+ <tr>
+  <td>Január</td>
+  <td>9:00 - 16:30</td>
+ </tr>
+ <tr>
+  <td>Február</td>
+  <td>9:00 - 17:00</td>
+ </tr>
+ <tr>
+  <td>Marec</td>
+  <td>9:00 - 17:30</td>
+ </tr>
+ <tr>
+  <td>Apríl-September</td>
+  <td>9:00 - 18:30</td>
+ </tr>
+ <tr>
+  <td>október (letný čas)</td>
+  <td>9:00 - 17:30</td>
+ </tr>
+ <tr>
+  <td>október-december</td>
+  <td>9:00 - 16:30</td>
+ </tr>
+</tbody>
+</table>
+</div>
+
+<div class="col-lg-6">
+<h3 class="fst-italic text-primary">Cenník</h3>
+  <table class="table table-striped table-bordered bg-light"> 
+  <thead>
+  <tr class="table-primary">
+    <th></th>
+    <th>Na osobu</th>
+   </tr>
+  </thead>
+    <tbody>
+    <tr>
+      <td>Dospelí</td>
+      <td>21,90 EUR</td>
+    </tr>
+    <tr>
+      <td>Deti 6-15</td>
+      <td>9,80 EUR</td>
+    </tr>
+    <tr>
+      <td>Deti 3-5</td>
+      <td>6,50 EUR</td>
+    </tr>
+    <tr>
+      <td>Seniori od 64</td>
+      <td>16,40</td>
+    </tr>
+    <tr>
+      <td>Invalidi</td>
+      <td>16,40</td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+Deti mladšie ako 14 rokov smú z bezpečnostných dôvodov navštíviť zoologickú záhradu iba v sprievode plnoletých osôb. Tieto osoby sú za deti zodpovedné!
+Všetky naše zvieratá dostávajú starostlivo zostavené krmivo, ktoré zodpovedá ich potrebám a správaniu. Aby nebolo ohrozené zdravie našich zvierat a aby si zvieratá nezvykli žobrať o jedlo, platí v celej zoologickej záhrade absolútny zákaz kŕmenia.
+Prekračovanie zábran a siahanie do výbehov ohrozuje zvieratá aj ľudí, a preto je prísne zakázané.
+Aj zvieratá potrebujú oddych. Prosím, nesnažte sa získať pozornosť zvierat hlasnými výkrikmi, klopaním na sklo a podobne. Nie je povolené prehrávať hlasnú hudbu ani produkovať hudbu či vytvárať nadmerný hluk.
+Natáčanie a fotografovanie na súkromné účely je vítané. V prípade komerčných záznamov sa vyžaduje súhlas riaditeľstva. Upozorňujeme, že v niektorých budovách je zakázané používať blesk.
+V celom zámockom parku vrátane ZOO je zakázané vstupovať na zelené plochy a vodiť na ne psy či iné zvieratá. Vycvičeným vodiacim a asistentským psom (s očkovacím preukazom a označeným postrojom) je vstup povolený. Asistentské psy v zoologickej záhrade musia mať povinne tieto očkovania: proti besnote, psinke, parvovírusu, leptospiróze a infekčnej hepatitíde (HCC). Platným očkovacím preukazom sa preukážete pri pokladnici.
+Jazda na bicykli, kolieskových korčuliach, skejtbordoch, skútroch a podobne je zakázaná. Rovnako je zakázané hrať sa s loptami, lietajúcimi taniermi a podobne. Takisto je zakázané brať si so sebou balóny.
+Pomôžte nám udržiavať zoologickú záhradu čistú. Používajte odpadkové koše.
+Pokyny zamestnancov zoologickej záhrady je nutné bezpodmienečne dodržiavať.
+Zamestnanci zoologickej záhrady majú právo vykázať zo zoologickej záhrady návštevníkov, ktorí nedodržiavajú návštevný poriadok.
+Vstupenku si treba uschovať a na požiadanie ju predložiť. Po odchode zo zoologickej záhrady stráca svoju platnosť.
+Celoročná vstupenka platí len v spojení s preukazom s fotografiou a musíte sa ňou preukázať pri každej návšteve. Je neprenosná a pri zneužití bude bez náhrady odobratá. Dodržiavajte, prosím, zatváracie hodiny zoologickej záhrady, ktoré sú vyznačené pri vchodoch a oznamované hláseniami, pretože o chvíľu neskôr sa zatvára aj zámocký park.
+
+<div class="col-lg-6">
+ <h3 class="fst-italic text-success">Otváracie hodiny</h3>
+  <table class="table table-striped table-bordered bg-light">
+   <thead>
+    <tr class="table-success">
+     <th></th>
+     <th>Čas</th>
+    </tr>
+   </thead>
+<tbody>
+ <tr>
+  <td>Denne</td>
+  <td>9:00 - 20:00</td>
+ </tr>
+</tbody>
+</table>
+</div>

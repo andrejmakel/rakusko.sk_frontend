@@ -1,0 +1,28 @@
+<?php  
+
+return[
+    'langId' => '5',
+    'langOrder' => '4',
+    'langShortcut' => 'sl',
+    'shopping' => 'Nakupovanje',
+    'places' => 'Destinacije',
+    'activity' => 'Dejavnosti',
+    'info' => 'Informacije',
+    'search' => 'lakota',
+    'changeLang' => 'spremeni jezik',
+    'menuLogo' => 'avstrija24_logo.png',
+    'footerText' => 'Avstrija24.si',
+    'categories' => 'Kategorije',
+    'allCat' => 'Vse',
+    'discount' => 'POPUST',
+    'removeFilter' => 'odstranite filter',
+    'openingHours' => 'Odpiralni čas',
+    'prices' => 'cene',
+    'displayMore' => 'Prikazati več',
+    'displayLess' => 'Prikaži manj',
+    'arrivalParking' => 'Prihod in parkiranje',
+    'practicalInfo' => 'Praktične informacije',
+    'contact' => 'Stik',
+    'showGallery' => 'Ogled galerije',
+    'sidebarTopText' => 'Morda vas bo zanimalo',
+]; 
